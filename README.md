@@ -13,9 +13,8 @@ Motivated Computer Science undergraduate pursuing a degree at IIT Sri Lanka in c
 - 🌱 I'm currently learning **Advanced Machine Learning Algorithms**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 👨‍💻 All of my projects are available at [github.com/naela-girsy-projects](https://github.com/naela-girsy-projects)
-- 💬 Ask me about **Python, Java, Machine Learning, and Web Development**
-- 📫 How to reach me: **youremail@example.com**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
+- 💬 Passionate about **Python, Java, Machine Learning, and Web Development**
+- 📫 How to reach me: **naelagirsy@example.com**
 
 ## 🛠️ Tech Stack
 

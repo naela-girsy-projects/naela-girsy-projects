@@ -14,7 +14,7 @@ Motivated Computer Science undergraduate pursuing a degree at IIT Sri Lanka in c
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 👨‍💻 All of my projects are available at [github.com/naela-girsy-projects](https://github.com/naela-girsy-projects)
 - 💬 Passionate about **Python, Java, Machine Learning, and Web Development**
-- 📫 How to reach me: **naelagirsy@gmail.com**
+
 
 ## 🛠️ Tech Stack
 

@@ -82,9 +82,9 @@ Motivated Computer Science undergraduate pursuing a degree at IIT Sri Lanka in c
 ## 🔥 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/naela-girsy-projects/project1">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=naela-girsy-projects&repo=project1&theme=tokyonight" alt="Project 1" />
-  </a>
+  <a href="https://github.com/naela-girsy-projects/Plane-Management-System"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naela-girsy-projects&repo=Plane-Management-System&theme=tokyonight" alt="Plane Management System" /> 
+  </a> 
   <a href="https://github.com/naela-girsy-projects/project2">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=naela-girsy-projects&repo=project2&theme=tokyonight" alt="Project 2" />
   </a>

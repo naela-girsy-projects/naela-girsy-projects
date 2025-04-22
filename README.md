@@ -1,7 +1,7 @@
 # Hi there, I'm Naela 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E95F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Computer+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;AI+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Coding Animation" width="700">
 </div>
 
 ## About Me ℹ️
@@ -14,9 +14,13 @@ Motivated Computer Science undergraduate pursuing a degree at IIT Sri Lanka in c
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 👨‍💻 All of my projects are available at [github.com/naela-girsy-projects](https://github.com/naela-girsy-projects)
 - 💬 Passionate about **Python, Java, Machine Learning, and Web Development**
-- 📫 How to reach me: **naelagirsy@example.com**
+- 📫 How to reach me: **naelagirsy@gmail.com**
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Programming_Languages.gif" alt="Programming Languages" width="500">
+</div>
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,22 +67,26 @@ Motivated Computer Science undergraduate pursuing a degree at IIT Sri Lanka in c
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naela-girsy-projects&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naela-girsy-projects&theme=tokyonight" alt="GitHub Streak" width="45%" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=naela-girsy-projects&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=naela-girsy-projects&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naela-girsy-projects&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naela-girsy-projects&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ## 🔥 Featured Projects
 
 <div align="center">
   <a href="https://github.com/naela-girsy-projects/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naela-girsy-projects&repo=project1&theme=tokyonight" alt="Project 1" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=naela-girsy-projects&repo=project1&theme=tokyonight" alt="Project 1" />
   </a>
   <a href="https://github.com/naela-girsy-projects/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naela-girsy-projects&repo=project2&theme=tokyonight" alt="Project 2" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=naela-girsy-projects&repo=project2&theme=tokyonight" alt="Project 2" />
   </a>
 </div>
 
@@ -91,7 +99,7 @@ Motivated Computer Science undergraduate pursuing a degree at IIT Sri Lanka in c
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="www.linkedin.com/in/naela-girsy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/naela-girsy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:naelagirsy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
@@ -104,7 +112,7 @@ Motivated Computer Science undergraduate pursuing a degree at IIT Sri Lanka in c
 ## 📈 Activity Graph
 
 <div align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=naela-girsy-projects&theme=tokyo-night" />
+  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=naela-girsy-projects&theme=tokyo-night" />
 </div>
 
 ---
@@ -116,5 +124,5 @@ Motivated Computer Science undergraduate pursuing a degree at IIT Sri Lanka in c
 <div align="center">
   Thanks for visiting my profile! Have a nice day! 😊
   <br><br>
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>

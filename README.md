@@ -17,7 +17,7 @@ Motivated Computer Science undergraduate pursuing a degree at IIT Sri Lanka in c
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Programming_Languages.gif" alt="Programming Languages" width="500">
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Programming_Languages.gif" alt="Programming Languages" width="50">
 </div>
 
 ### Programming Languages
@@ -97,13 +97,6 @@ Motivated Computer Science undergraduate pursuing a degree at IIT Sri Lanka in c
   <img src="https://github-profile-trophy.vercel.app/?username=naela-girsy-projects&theme=nord&column=7" alt="GitHub Trophies" />
 </div>
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=naela-girsy-projects&theme=tokyo-night" />
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=naela-girsy-projects&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />

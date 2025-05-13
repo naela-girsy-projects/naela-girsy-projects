@@ -74,7 +74,7 @@ Motivated Computer Science undergraduate pursuing a degree at IIT Sri Lanka in c
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naela-girsy-projects&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naela-girsy-projects&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 
